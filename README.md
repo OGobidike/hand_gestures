@@ -70,4 +70,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 Enjoy!!🤖✋
-(If it doesn't work or theres a bug, I'll get back to this project I promise but rn its Feb, 20-tariff-25 and life be lifin so...) 
+P.S. (If it doesn't work or theres a bug, I'll get back to this project I promise but rn its Feb, 20-tariff-25 and life be lifin so...) 
